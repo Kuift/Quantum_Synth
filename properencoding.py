@@ -56,7 +56,7 @@ dev = qml.device('default.qubit', wires=nb_qubits)
 
 @qml.qnode(dev)
 def circuit(f=None):
-    qml.AmplitudeEmbedding(features=f, wires=range(nb_qubits), pad_with=1,normalize=True)
+    qml.AmplitudeEmbedding(features=f, wires=range(nb_qubits), pad_with=0,normalize=True)
     return qml.probs(wires=range(nb_qubits))
 results = circuit(features)
 print(f"encoding result: {results}")
