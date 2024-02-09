@@ -1,6 +1,6 @@
 # Quantum Signal processing for audio application
 
-This project was developed during the in-person PennyLane Quantum Hackathon. Our aim is to demonstrate the capabilities of quantum signal processing by using audio as a medium, highlighting what might be possible with a quantum synthesizer. Therefore, you will find various experiments that may not necessarily provide a quantum advantage but instead offer intriguing audio effects intended to draw interest to the field.
+This project was developed during the in-person PennyLane Quantum Hackathon. Our aim is to demonstrate the capabilities of quantum signal processing by using audio as a medium, highlighting what might be possible with a quantum synthesizer as a bonus. Therefore, you will find various experiments that may not necessarily provide a quantum advantage but instead offer intriguing audio effects intended to draw interest to the field. The field of Quantum Signal Processing (QSP) lags behind quantum image processing since one-dimensional data structures garner less attention in quantum computing. However, advancing the development of QSP could aid in creating better algorithms and enhance our understanding of how quantum computing can process data. 
 
 ## Running the project
 
@@ -21,8 +21,8 @@ One of the first effects we explored was pitch modification. However, it appears
 
 ## Sources
 
-Itaboraí, P. V., & Miranda, E. R. (2023). Quantum Representations of Sound: from mechanical waves to quantum circuits. In E. R. Miranda (Ed.), Quantum Computer Music: Foundations, Methods and Advanced Concepts (pp. 223-274). [Springer]. https://link.springer.com/book/10.1007/978-3-031-13909-3
+[1] Itaboraí, P. V., & Miranda, E. R. (2023). Quantum Representations of Sound: from mechanical waves to quantum circuits. In E. R. Miranda (Ed.), Quantum Computer Music: Foundations, Methods and Advanced Concepts (pp. 223-274). [Springer]. https://link.springer.com/book/10.1007/978-3-031-13909-3
 
-Laneve, L. (2023). Quantum Signal Processing, Phase Extraction, and Proportional Sampling. arXiv preprint arXiv:2303.11077. Retrieved from https://arxiv.org/abs/2303.11077
+[2] Laneve, L. (2023). Quantum Signal Processing, Phase Extraction, and Proportional Sampling. arXiv preprint arXiv:2303.11077. Retrieved from https://arxiv.org/abs/2303.11077
 
-Yan, F., Guo, Y., Iliyasu, A. M., & Yang, H. (2017). Flexible Representation and Manipulation of Audio Signals on Quantum Computers. arXiv preprint arXiv:1701.01294. Retrieved from https://arxiv.org/abs/1701.01294
+[3] Yan, F., Guo, Y., Iliyasu, A. M., & Yang, H. (2017). Flexible Representation and Manipulation of Audio Signals on Quantum Computers. arXiv preprint arXiv:1701.01294. Retrieved from https://arxiv.org/abs/1701.01294
