@@ -16,7 +16,7 @@ In many of the papers related to audio that inspired this project, quantum rando
 
 ### Pitch modification
 
-One of the first effects we explored was pitch modification. However, it appears that this type of operation requires additional effort, as it is not feasible to simply perform a Fourier transform and modify the frequency. Performing such an operation would likely involve quantum machine learning (QML) techniques.
+One of the first effects we explored was pitch modification. However, it appears that this type of operation requires additional effort, as it is not obviously feasible to simply perform a Fourier transform and modify the frequency. Performing such an operation would likely involve quantum machine learning (QML) techniques.
 
 
 ## Sources
