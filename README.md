@@ -1,6 +1,6 @@
 # Quantum Signal processing for audio application
 
-For this project, everything is well explained in the `quantum_audio.ipynb` notebook
+For this project, everything is well explained in the `quantum_audio.ipynb` notebook. This is the main file you should look into for this repository.
 
 This project was developed during the in-person PennyLane Quantum Hackathon. Our aim is to demonstrate the capabilities of quantum signal processing by using audio as a medium, highlighting what might be possible with a quantum synthesizer as a bonus. Therefore, you will find various experiments that may not necessarily provide a quantum advantage but instead offer intriguing audio effects intended to draw interest to the field. The field of Quantum Signal Processing (QSP) lags behind quantum image processing[1] since one-dimensional data structures garner less attention in quantum computing. However, advancing the development of QSP could aid in creating better algorithms and enhance our understanding of how quantum computing can process data. 
 
